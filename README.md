@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Artificial-Intelligence-5](https://github.com/AurelienGEORGES/AurelienGEORGES/assets/91632616/b96b62fe-89b8-418c-bcd2-fa9f6d534d3f)
+
 - I'm a passionate developer from France 🤓 
 - I’m currently working on openai API 😝
 - I’m currently learning MERN Stack 😄
