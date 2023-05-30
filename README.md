@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - I'm looking for being an apprentice 🤩
 - I'm cool and motivated 🆒
 - I'm interested in AI, blockchain, metaverse, NFT and WEB 3.0 🦉
+
+![GitHUb](https://github.com/AurelienGEORGES/AurelienGEORGES/assets/91632616/589dd648-b8db-4185-a91c-3c095b1e63e3)
+ 
