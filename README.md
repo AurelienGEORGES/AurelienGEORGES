@@ -4,6 +4,7 @@
 **AurelienGEORGES/AurelienGEORGES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![photo_CV](https://github.com/AurelienGEORGES/AurelienGEORGES/assets/91632616/88c7634e-3472-4b36-8ed2-3658ba5024c6)
 
 - 🔭 I’m currently working on AI
 - 🌱 I’m currently learning ...
