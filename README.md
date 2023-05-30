@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 - I'm cool and motivated 🆒
 - I'm interested in AI, blockchain, metaverse, NFT and WEB 3.0 🦉
 
+Here is what technologies I use and what I would like to use when I will be an apprentice (I would also like to practice with others langages like Java, Python, C, C++, C# I'm really open)
+
 ![GitHUb](https://github.com/AurelienGEORGES/AurelienGEORGES/assets/91632616/589dd648-b8db-4185-a91c-3c095b1e63e3)
  
