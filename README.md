@@ -1,31 +1,25 @@
-### Hi there 👋 I'm a motivated french developer 🧔🏻‍♂️
+# 👋 Hey there, I’m Aurélien — a French Full-Stack Dev 🚀
 
-<!--
-**AurelienGEORGES/AurelienGEORGES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏃 Always on the run to be the **best version of myself**  
+🌝 My stack superpowers: **Symfony ⚡ React ⚡ Tailwind ⚡ Bootstrap ⚡ SQL**  
+🔱 Currently crafting and scaling an **e-commerce universe** (orders, suppliers, products, invoices, you name it!)  
+😎 Into **AI 🤖 · Blockchain ⛓️ · Metaverse 🌐 · NFTs 🎨 · Web3 🔮**  
 
-Here are some ideas to get you started:
-![alt text](https://github.com/AurelienGEORGES/AurelienGEORGES/blob/main/photo_CV.jpg?raw=true)
+---
 
-- 🔭 I’m currently working on AI
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I’m really good at
+- 🧩 Turning **complex business logic** into clean & maintainable code  
+- 🗄️ Designing **efficient databases** and writing **SQL that really flies**  
+- 🎨 Creating **modern UIs** with Tailwind & Bootstrap  
+- 🛒 Building **robust e-commerce features** (composite products, supplier flows, invoicing systems)    
 
-![Artificial-Intelligence-5](https://github.com/AurelienGEORGES/AurelienGEORGES/assets/91632616/b96b62fe-89b8-418c-bcd2-fa9f6d534d3f)
+---
 
-- I'm a passionate developer from France 🤓 
-- I’m currently working on openai API 😝
-- I’m currently learning MERN Stack 😄
-- I'm looking for being an apprentice 🤩
-- I'm cool and motivated 🆒
-- I'm interested in AI, blockchain, metaverse, NFT and WEB 3.0 🦉
+## 🌟 My vibe
+💡 I love mixing **backend brains** with **frontend style**  
+🚀 Always curious, always learning, always experimenting  
+🔮 Dreaming about the **future of tech** (AI + Web3 = 🔥)  
 
-Here is what technologies I use and what I would like to use when I will be an apprentice (I would also like to practice with others langages like Java, Python, C, C++, C# I'm really open)
+--- 
 
-![GitHUb](https://github.com/AurelienGEORGES/AurelienGEORGES/assets/91632616/589dd648-b8db-4185-a91c-3c095b1e63e3)
- 
+✨ If you’re building something cool, let’s talk! 
