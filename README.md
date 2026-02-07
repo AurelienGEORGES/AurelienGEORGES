@@ -1,6 +1,4 @@
-# ⚡ Aurélien | Full-Stack 🇫🇷
-
-> "Always on the run to be the best version of myself, one commit at a time."
+![pexels-uzunov-rostislav-5011647](https://github.com/user-attachments/assets/766edd21-7338-48a3-8890-86fbd9d535ec)
 
 ### 🛠️ Tech Superpowers
 
