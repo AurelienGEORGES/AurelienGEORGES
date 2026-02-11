@@ -1,31 +1,11 @@
-![pexels-uzunov-rostislav-5011647](https://github.com/user-attachments/assets/766edd21-7338-48a3-8890-86fbd9d535ec)
-
 ### 🛠️ Tech Superpowers
 
-| Ecosystem | Stack |
+| Ecosystem | Stack & Tools |
 | :--- | :--- |
-| **PHP** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-8CAAE6?style=for-the-badge&logo=phpunit&logoColor=white)
-![PHPStan](https://img.shields.io/badge/PHPStan-212121?style=for-the-badge&logo=phpstan&logoColor=white)
-| **JS** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-| **CSS** | ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-| **SQL** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-2061A4?style=for-the-badge&logo=laragon&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![MAMP](https://img.shields.io/badge/MAMP-000000?style=for-the-badge&logo=mamp&logoColor=white)
+| **PHP** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-8CAAE6?style=for-the-badge&logo=phpunit&logoColor=white) ![PHPStan](https://img.shields.io/badge/PHPStan-212121?style=for-the-badge&logo=phpstan&logoColor=white) |
+| **JS** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) |
+| **UI/UX** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Data & Env** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PHPMyAdmin](https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white) ![Laragon](https://img.shields.io/badge/Laragon-2061A4?style=for-the-badge&logo=laragon&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![MAMP](https://img.shields.io/badge/MAMP-000000?style=for-the-badge&logo=mamp&logoColor=white) |
 
 ### 🛡️ DevSecOps & Reliability
 
